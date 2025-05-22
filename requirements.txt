@@ -1,0 +1,15 @@
+mlxtend
+pandas
+scikit-learn
+transformers
+google
+doteenv
+sdv
+torch
+torchvision
+torchaudio
+huggingface-hub
+matplotlib
+fairlearn
+pyjanitor
+openai

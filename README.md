@@ -12,3 +12,9 @@ To view this repo:
 ```git
 git clone https://github.com/keanteng/wqd7005
 ```
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
